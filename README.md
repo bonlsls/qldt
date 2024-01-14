@@ -1,6 +1,6 @@
 # 1.Cài đặt
 - MySQL và MySQL Workbench
-- Django
+- Django: pip install django
 - pymysql
 # 2.Tạo cơ sở dữ liệu
 - database name: st_mn_sys
